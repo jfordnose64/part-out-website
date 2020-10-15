@@ -2,11 +2,13 @@
   "Listing": {
     "id": 1,
     "location": "1234 elm street",
+    "date": "October 14, 2020",
     "vehicle": {
       "type": "car",
       "make": "Porsche",
       "model": "911 Turbo",
       "year": "1975",
+      "color": "red",
       "miles": "19,000",
       "short-description": "This is a porsche from 1975.",
       "engine": {
