@@ -1,0 +1,82 @@
+{
+  "Listing": {
+    "id": 1,
+    "location": "1234 elm street",
+    "vehicle": {
+      "type": "car",
+      "make": "Porsche",
+      "model": "911 Turbo",
+      "year": "1975",
+      "miles": "19,000",
+      "short-description": "This is a porsche from 1975.",
+      "engine": {
+        "type": "piston",
+        "displacement": "4.0L",
+        "Engine Arrangement": "Flat 6"
+      },
+      "drivetrain": {
+        "type": "manual",
+        "number-of-gears": "6"
+      },
+      "interior": {
+        "color": "Black",
+        "seat-type": "Cloth bucket seats"
+      },
+      "exterior": {
+        "wheels": "OEM"
+      }
+    },
+    "user": {
+      "username": "p0r2ch3K1l3r",
+      "id": "213"
+    },
+    "for-sale": {
+      "engine": [
+        {
+          "item": "BorgWarner Turbos",
+          "price": 2000
+        },
+        {
+          "item": "Titanium Exhaust",
+          "price": "3000"
+        }
+      ],
+      "drivetrain": [
+        {
+          "item": "Wheel Bearings Rear",
+          "price": "400"
+        }
+      ],
+      "exterior": [
+        {
+          "item": "OEM Wheels",
+          "price": "1000"
+        },
+        {
+          "item": "Carbon Vent",
+          "price": "1000"
+        }
+      ],
+      "interior": [
+        {
+          "item": "Bucket Seats OEM",
+          "price": "500"
+        },
+        {
+          "item": "Shift Knob",
+          "price": "50"
+        }
+      ],
+      "suspension": [
+        {
+          "item": "K&W Coilovers",
+          "price": "4000"
+        },
+        {
+          "item": "Swaybars",
+          "price": "500"
+        }
+      ]
+    }
+  }
+}
