@@ -1,0 +1,41 @@
+/* menu styles */
+
+.head {
+    margin-bottom: 7%;
+}
+
+.logo{
+    height: 10px;
+}
+
+.logo h1 {
+    height: 75px;
+    width: 194px;
+    color: #262E33;
+}
+h1 span{
+    color: #FFD957;
+}
+
+.navigation-bar {
+    width: 100%;
+    height: auto;
+    padding: 0 30px;
+    top: 0;
+    z-index: 20;
+    justify-content: center;
+    position: fixed;
+    background-color: #4D5459;
+}
+
+.navigation-bar nav {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.navigation-bar ul {
+    display: flex;
+    list-style: none;
+}
+
